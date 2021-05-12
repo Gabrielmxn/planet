@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#formPlanet {
+  display: grid;
+  margin: 20px 0;
+  background-color: #130f40;
+  color: black;
+  width: 300px;
+  padding: 20px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+#formPlanet input[type=text] {
+  display: block;
+  
+  outline: none;
+  border: none;
+
+  border-radius: 5px;
+  padding: 8px 4px;
+}
+#formPlanet input {
+  margin: 5px 0;
+}
+#formPlanet input[type=submit] {
+  background-color: #eb4d4b;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding: 5px;
+}
+#formPlanet label {
+  color: white;
+}

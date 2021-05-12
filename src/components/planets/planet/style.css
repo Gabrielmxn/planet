@@ -1,0 +1,20 @@
+#planet {
+
+  background-color: #130f40;
+  color: white;
+  padding: 30px;
+  box-shadow: 0 0 10px 0.5px white;
+  border-radius: 10px;
+  width: 90%;
+  margin: 30px auto 0 auto;
+}
+.title {
+  font-size: 2rem;
+}
+ul {
+  margin-top: 60px;
+}
+li {
+  list-style: none;
+}
+

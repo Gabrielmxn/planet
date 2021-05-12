@@ -1,0 +1,15 @@
+.gray-img{
+  width: 12rem;
+  margin: 50px auto;
+  filter: grayscale(100%);
+}
+
+.color-img{
+
+  border-radius: 50%;
+  text-align: center;
+}
+
+.img {
+  text-align: center;
+}

@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.titulo {
+  text-align: center;
+  font-size: 30px;
+  padding: 30px;
+  color: white;
+}
+#formSatellites {
+  margin: 20px 0;
+
+}
+#formSatellites input[type=text] {
+  display: block;
+  border-radius: 3px;
+  outline: none;
+  border: 1px solid blue;
+  padding: 3px 2px;
+}
+#formSatellites input {
+  margin: 5px 0;
+}
+#formSatellites input[type=submit] {
+  background-color: green;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding: 5px;
+}
+
